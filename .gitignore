@@ -1,0 +1,8 @@
+# Ignore real database credentials
+db.php
+
+# Ignore uploaded media files
+uploads/*
+
+# But DO NOT ignore this placeholder file (keeps the folder intact on GitHub)
+!uploads/.gitkeep
